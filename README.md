@@ -4,10 +4,14 @@ Marathon Records is a python service that fetches the current marathon records f
 
 ## Usage
 
+### Download the cource code
+Clone the repo, or download the zip directly from the dropdown above.
+
 ### Run the program:
 
+From your local Marathon Records directory:
 ```bash
-python3 marathon_records.py
+python3 ./marathon_records.py
 ```
 
 ### Send a request:
