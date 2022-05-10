@@ -6,7 +6,7 @@ URL_women = "https://www.worldathletics.org/records/all-time-toplists/road-runni
 
 print('\nWaiting for next request...')
 
-# enter loop to continually read the prng_service.txt file
+# enter loop to continually read the marathon_records.txt file
 while True:
     # open file for reading
     records = ""
